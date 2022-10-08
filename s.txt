@@ -5,3 +5,5 @@ changed in git hub
 added in local repo
 
 added new branch and edited in it.
+
+added branch from localrepo
